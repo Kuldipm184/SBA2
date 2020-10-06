@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: coronakit
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: asus
+Implementation-Vendor-Id: com.eval
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/coronakit
+Created-By: Maven Integration for Eclipse
+
